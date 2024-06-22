@@ -15,11 +15,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "9-talent-shared",
-  "author": "",
+  "name": "@Ujjwal-here/talent-shared",
+  "author": "Ujjwal Maurya",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Ujjwal-here/talent-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
